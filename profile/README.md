@@ -14,7 +14,7 @@
 
 A ESX cuida da tecnologia de empresas que não podem parar — e desenvolve os sistemas que rodam em cima dela.
 
-| | |
+| Serviço | O que entregamos |
 |---|---|
 | **TI gerenciada** | Suporte com chamado e prazo, monitoramento 24h, atualizações e backup testado. A gente percebe o problema antes de você ligar. |
 | **Infraestrutura** | Rede, Wi-Fi, servidores, firewall e nuvem — planejados, documentados e monitorados. Nada de "só o técnico sabe como funciona". |
